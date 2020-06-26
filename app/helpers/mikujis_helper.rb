@@ -1,0 +1,2 @@
+module MikujisHelper
+end
